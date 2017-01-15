@@ -1,0 +1,2 @@
+Synchronize game time with real time every time a player joins.
+It requires time_speed = 1 to stay synchronized
